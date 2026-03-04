@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdelrahman Tarek</h1>
+<h3 align="center">Software Quality Engineer | Manual & Automation Testing</h3>
 
-<!--
-**abdelrahmant-9/abdelrahmant-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💼 About Me
+- 🔍 Working as a Software Quality Engineer
+- 🧪 Experienced in Manual Testing & Test Case Design
+- 🤖 Hands-on experience with Automation Testing (Selenium, TestNG, Maven)
+- 📱 Background in Flutter development
+- 🌐 Good understanding of Web Technologies
+- 🚀 Focused on delivering reliable and high-quality software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abelrahmantarek/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abdelrahman.tarek.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abdelrahmant-9">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://abdelrahman-tarek-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🧪 Quality & Testing Skills
+
+- Manual Testing
+- Test Case Writing
+- Bug Reporting
+- API Testing (Postman)
+- Regression Testing
+- Cross-Browser Testing
+- Agile / Scrum
+
+---
+
+## 🤖 Automation Knowledge
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,selenium,maven,git,github" />
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,flutter,dart" />
+</p>
+
+---
+
+## 🌐 Web Knowledge
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs" />
+</p>
+
+---
+
+## 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abdelrahmant-9&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmant-9&theme=tokyonight" />
+</p>
+
+---
+
+✨ Quality is not about finding bugs — it's about preventing them.
