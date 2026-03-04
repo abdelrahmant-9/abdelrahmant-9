@@ -49,42 +49,52 @@
 
 ---
 
-## 🤖 Automation Knowledge
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,selenium,maven,git,github" />
+## 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,flutter,dart" />
 </p>
 
 ---
 
-## 💻 Programming Languages
+## 🤖 Automation & Testing
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=selenium,maven,git,github,postman,jenkins" />
+</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,flutter,dart" />
+- Selenium WebDriver  
+- TestNG  
+- JUnit  
+- Page Object Model (POM)  
+- Data-Driven Testing  
+
+---
+
+## 📱 Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
 </p>
 
 ---
 
 ## 🌐 Web Knowledge
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs" />
 </p>
 
----
-
-## 📱 Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
-</p>
-
----
+*Basic understanding for testing & integration purposes.*
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdelrahmant-9&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmant-9&theme=tokyonight" />
+  <img height="170em"
+       src="https://ghstats-amber.vercel.app/api?username=abdelrahmant-9&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="170em"
+       src="https://ghstats-amber.vercel.app/api/top-langs/?username=abdelrahmant-9&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmant-9&theme=tokyonight" />
 </p>
 
 ---
