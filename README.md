@@ -6,7 +6,7 @@
 <h1 align="center">Abdelrahman Tarek</h1>
 
 <p align="center">
-  <img src="assets/typing.svg" alt="Software QA Engineer @ Lumofy · I break things so users don't · Mobile testing · Data testing" width="100%"/>
+  <img src="assets/typing.svg?v=2" alt="Software QA Engineer @ Lumofy · I break things so users don't · Mobile testing · Data testing" width="100%"/>
 </p>
 
 <p align="center">
@@ -16,25 +16,25 @@
   <img src="https://komarev.com/ghpvc/?username=abdelrahmant-9&style=for-the-badge&color=090d17&labelColor=111a2c&label=VISITORS"/>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="qa-run: PASS Software QA Engineer at Lumofy (intern to full-time); PASS Test IO freelance, 20+ accepted bugs; PASS DEPI top 1; PASS mobile testing; PASS data testing"/>
+  <img src="assets/terminal.svg?v=2" width="100%" alt="qa-run: PASS Software QA Engineer at Lumofy (intern to full-time); PASS Test IO freelance, 20+ accepted bugs; PASS DEPI top 1; PASS mobile testing; PASS data testing"/>
 </p>
 
-<img src="assets/h-journey.svg" width="100%" alt="The journey"/>
+<img src="assets/h-journey.svg?v=2" width="100%" alt="The journey"/>
 
 <p align="center">
-  <img src="assets/journey.svg" width="100%" alt="2025 DEPI testing track and team lead → Oct 2025 Lumofy QA intern, full-time Apr 2026 → 2026 Test IO freelance and NTI Flutter training → now: QA with mobile testing and data testing specialties"/>
+  <img src="assets/journey.svg?v=2" width="100%" alt="2025 DEPI testing track and team lead → Oct 2025 Lumofy QA intern, full-time Apr 2026 → 2026 Test IO freelance and NTI Flutter training → now: QA with mobile testing and data testing specialties"/>
 </p>
 
-<img src="assets/h-featured.svg" width="100%" alt="Featured work"/>
+<img src="assets/h-featured.svg?v=2" width="100%" alt="Featured work"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/card-spectara.svg" width="56" align="left" alt=""/>
+<img src="assets/card-spectara.svg?v=2" width="56" align="left" alt=""/>
 
 ### Spectara
 <sub>AUTOMATION, REIMAGINED</sub>
@@ -49,7 +49,7 @@ A Chrome extension: click any element and get the most stable locator (ranked, n
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/card-depi.svg" width="56" align="left" alt=""/>
+<img src="assets/card-depi.svg?v=2" width="56" align="left" alt=""/>
 
 ### DEPI Graduation Project
 <sub>FIVE PEOPLE, ONE SHARED STANDARD</sub>
@@ -66,7 +66,7 @@ Led a QA team through a full web-app testing lifecycle: 50+ test cases, 15+ docu
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/card-flutter.svg" width="56" align="left" alt=""/>
+<img src="assets/card-flutter.svg?v=2" width="56" align="left" alt=""/>
 
 ### To-Do & أجر
 <sub>CODE I REFUSE TO SHIP UNTESTED</sub>
@@ -81,7 +81,7 @@ To-Do uses Clean Architecture + MVVM, Firebase Auth, Firestore, GetIt and AR/EN 
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/card-data.svg" width="56" align="left" alt=""/>
+<img src="assets/card-data.svg?v=2" width="56" align="left" alt=""/>
 
 ### Data pipelines
 <sub>TESTING DATA, NOT JUST APPS</sub>
@@ -97,7 +97,7 @@ Warehouses and ELT pipelines with tests at every layer: Snowflake RAW → Bronze
 </tr>
 </table>
 
-<img src="assets/h-more.svg" width="100%" alt="More projects"/>
+<img src="assets/h-more.svg?v=2" width="100%" alt="More projects"/>
 
 <details>
 <summary><b>Open the full list</b></summary>
@@ -112,15 +112,15 @@ Warehouses and ELT pipelines with tests at every layer: Snowflake RAW → Bronze
 
 </details>
 
-<img src="assets/h-toolbox.svg" width="100%" alt="Toolbox"/>
+<img src="assets/h-toolbox.svg?v=2" width="100%" alt="Toolbox"/>
 
 <p align="center">
-  <img src="assets/toolbox.svg" width="100%" alt="Testing: Selenium, Postman, Jira, JUnit, Java, Maven, Jenkins. Data QA: Python, dbt, Airflow, Snowflake, DuckDB, SQL. Mobile: Flutter, Dart, Firebase, JavaScript, Chrome MV3, Git, GitHub"/>
+  <img src="assets/toolbox.svg?v=2" width="100%" alt="Testing: Selenium, Postman, Jira, JUnit, Java, Maven, Jenkins. Data QA: Python, dbt, Airflow, Snowflake, DuckDB, SQL. Mobile: Flutter, Dart, Firebase, JavaScript, Chrome MV3, Git, GitHub"/>
 </p>
 
 <p align="center"><sub><b>Also:</b> manual & exploratory testing · test design · regression · cross-browser · API testing · bug reporting · TestNG · POM · data-driven · Agile / Scrum</sub></p>
 
-<img src="assets/h-activity.svg" width="100%" alt="Activity"/>
+<img src="assets/h-activity.svg?v=2" width="100%" alt="Activity"/>
 
 <p align="center">
   <img height="165" src="https://ghstats-amber.vercel.app/api?username=abdelrahmant-9&show_icons=true&count_private=true&include_all_commits=true&bg_color=090d17&title_color=75d7ca&icon_color=6ba5ff&text_color=c1cce0&border_color=26334c"/>
@@ -131,7 +131,7 @@ Warehouses and ELT pipelines with tests at every layer: Snowflake RAW → Bronze
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmant-9&background=090d17&border=26334c&stroke=26334c&ring=75d7ca&fire=6ba5ff&currStreakNum=f1f5fc&sideNums=f1f5fc&currStreakLabel=75d7ca&sideLabels=97a9c7&dates=8a9ab4"/>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
 
 <p align="center">
   <sub>Studying law at Minufiya University, which mostly taught me to read a spec adversarially. That's QA.</sub><br/>
