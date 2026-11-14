@@ -6,7 +6,7 @@
 <h1 align="center">Abdelrahman Tarek</h1>
 
 <p align="center">
-  <img src="assets/typing.svg" alt="Software QA Engineer @ Lumofy · I break things so users don't · Building Spectara · Learning dbt, Airflow, Snowflake" width="100%"/>
+  <img src="assets/typing.svg" alt="Software QA Engineer @ Lumofy · I break things so users don't · Mobile testing · Data testing" width="100%"/>
 </p>
 
 <p align="center">
@@ -19,13 +19,13 @@
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="qa-run: PASS Software QA Engineer at Lumofy (intern to full-time); PASS Test IO freelance, 20+ accepted bugs; PASS DEPI team lead; PASS building Spectara; RUN learning dbt, Airflow, Snowflake"/>
+  <img src="assets/terminal.svg" width="100%" alt="qa-run: PASS Software QA Engineer at Lumofy (intern to full-time); PASS Test IO freelance, 20+ accepted bugs; PASS DEPI top 1; PASS mobile testing; PASS data testing"/>
 </p>
 
 <img src="assets/h-journey.svg" width="100%" alt="The journey"/>
 
 <p align="center">
-  <img src="assets/journey.svg" width="100%" alt="2025 DEPI testing track and team lead → Oct 2025 Lumofy QA intern, full-time Apr 2026 → 2026 Test IO, Flutter apps, Spectara, QA Reps → now: data engineering with dbt, Airflow, Snowflake"/>
+  <img src="assets/journey.svg" width="100%" alt="2025 DEPI testing track and team lead → Oct 2025 Lumofy QA intern, full-time Apr 2026 → 2026 Test IO freelance and NTI Flutter training → now: QA with mobile testing and data testing specialties"/>
 </p>
 
 <img src="assets/h-featured.svg" width="100%" alt="Featured work"/>
@@ -115,7 +115,7 @@ Warehouses and ELT pipelines with tests at every layer: Snowflake RAW → Bronze
 <img src="assets/h-toolbox.svg" width="100%" alt="Toolbox"/>
 
 <p align="center">
-  <img src="assets/toolbox.svg" width="100%" alt="Testing: Selenium, Postman, Jira, JUnit, Java, Maven, Jenkins. Data: Python, dbt, Airflow, Snowflake, DuckDB, SQL. Build: Flutter, Dart, Firebase, JavaScript, Chrome MV3, Git, GitHub"/>
+  <img src="assets/toolbox.svg" width="100%" alt="Testing: Selenium, Postman, Jira, JUnit, Java, Maven, Jenkins. Data QA: Python, dbt, Airflow, Snowflake, DuckDB, SQL. Mobile: Flutter, Dart, Firebase, JavaScript, Chrome MV3, Git, GitHub"/>
 </p>
 
 <p align="center"><sub><b>Also:</b> manual & exploratory testing · test design · regression · cross-browser · API testing · bug reporting · TestNG · POM · data-driven · Agile / Scrum</sub></p>

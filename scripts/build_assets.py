@@ -50,8 +50,8 @@ def typing():
     phrases = [
         ("Software QA Engineer @ Lumofy", PASS),
         ("I break things so users don't.", T1),
-        ("Building Spectara: locators in 3 seconds", INFO),
-        ("Learning dbt · Airflow · Snowflake", VIOLET),
+        ("Mobile testing: Android · iOS · RTL", INFO),
+        ("Data testing: SQL · dbt · Snowflake", VIOLET),
     ]
     per = []
     for p, _ in phrases:
@@ -119,9 +119,9 @@ def terminal():
     rows = [
         ("PASS", "role", "Software QA Engineer @ Lumofy", "intern → full-time"),
         ("PASS", "freelance", "Test IO · 10+ cycles", "20+ accepted bugs"),
-        ("PASS", "leadership", "DEPI · led a 5-person QA team", "50+ test cases"),
-        ("PASS", "building", "Spectara · click → Selenium + POM", "~3s"),
-        ("RUN", "learning", "dbt · Airflow · Snowflake · DuckDB", ""),
+        ("PASS", "training", "DEPI · Top 1 of 100+", "led a team of 5"),
+        ("PASS", "mobile", "Android · iOS · RTL · Flutter", "specialty"),
+        ("PASS", "data", "SQL · dbt tests · Snowflake", "specialty"),
     ]
     t = 2.4
     for i, (st, k, v, note) in enumerate(rows):
@@ -143,13 +143,13 @@ def terminal():
     # summary + progress
     y = y0 + lh * 7.3
     b.append(f'<g><text x="{x0}" y="{y}" fill="{T2}">Tests:</text>'
-             f'<text x="{x0+66}" y="{y}" fill="{PASS}">4 passed</text>'
+             f'<text x="{x0+66}" y="{y}" fill="{PASS}">5 passed</text>'
              f'<text x="{x0+138}" y="{y}" fill="{T4}">,</text>'
-             f'<text x="{x0+156}" y="{y}" fill="{INFO}">1 running</text>{show(t + 0.2, T)}</g>')
+             f'<text x="{x0+156}" y="{y}" fill="{T3}">0 failed</text>{show(t + 0.2, T)}</g>')
     bx, bw = x0 + 300, W - 28 - (x0 + 300)
     b.append(f'<g><rect x="{bx}" y="{y-12}" width="{bw}" height="10" rx="5" fill="{PANEL2}"/>'
-             f'<rect x="{bx}" y="{y-12}" height="10" rx="5" fill="{PASS}" width="{bw*0.8:.0f}">'
-             f'<animate attributeName="width" values="0;0;{bw*0.8:.0f};{bw*0.8:.0f}" keyTimes="0;{(t+0.2)/T:.3f};{(t+1.6)/T:.3f};1" dur="{T}s" repeatCount="indefinite"/></rect>'
+             f'<rect x="{bx}" y="{y-12}" height="10" rx="5" fill="{PASS}" width="{bw*1.0:.0f}">'
+             f'<animate attributeName="width" values="0;0;{bw*1.0:.0f};{bw*1.0:.0f}" keyTimes="0;{(t+0.2)/T:.3f};{(t+1.6)/T:.3f};1" dur="{T}s" repeatCount="indefinite"/></rect>'
              f'{show(t + 0.2, T)}</g>')
     y2 = y + lh * 1.2
     b.append(f'<g><text x="{x0}" y="{y2}" fill="{T4}">// quality is not about finding bugs, it\'s about preventing them.</text>{show(t + 1.4, T)}</g>')
@@ -158,7 +158,7 @@ def terminal():
              f'<rect x="{x0+18}" y="{y3-14}" width="9" height="18" fill="{PASS}">'
              f'<animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect>')
     write("terminal.svg", svg(W, H, "".join(b), css,
-          "qa-run: PASS Software QA Engineer at Lumofy; PASS Test IO freelance; PASS DEPI team lead; PASS building Spectara; RUN learning dbt, Airflow, Snowflake"))
+          "qa-run: PASS Software QA Engineer at Lumofy; PASS Test IO freelance; PASS DEPI top 1; PASS mobile testing; PASS data testing"))
 
 
 # ---------------------------------------------------------------- journey
@@ -168,8 +168,8 @@ def journey():
     ms = [
         ("2025", "DEPI", ["Software Testing track", "Led a 5-person QA team"], PASS),
         ("OCT 2025", "Lumofy", ["QA intern", "→ full-time Apr 2026"], PASS),
-        ("2026", "Builder", ["Test IO · Flutter apps", "Spectara · QA Reps"], WARN),
-        ("NOW", "Data", ["dbt · Airflow", "Snowflake warehouses"], INFO),
+        ("2026", "Test IO · NTI", ["Freelance QA cycles", "Flutter, mobile dev"], WARN),
+        ("NOW", "QA +", ["Mobile testing", "Data & DB testing"], INFO),
     ]
     css = f".f{{font-family:{MONO}}}.s{{font-family:{SANS}}}"
     L = xs[-1] - xs[0]
@@ -196,7 +196,7 @@ def journey():
     b.append(f'<text x="{xs[-1]+2}" y="{ly+100}" text-anchor="middle" class="f" font-size="11" fill="{INFO}" letter-spacing="2">● IN PROGRESS'
              f'<animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></text>')
     write("journey.svg", svg(W, H, "".join(b), css,
-          "Journey: 2025 DEPI testing track and team lead; Oct 2025 Lumofy QA intern, full-time April 2026; 2026 Test IO, Flutter apps, Spectara; now learning data engineering"))
+          "Journey: 2025 DEPI testing track and team lead; Oct 2025 Lumofy QA intern, full-time April 2026; 2026 Test IO and NTI Flutter training; now QA with mobile and data testing specialties"))
 
 
 def lighten(h, min_l=0.5):
@@ -213,9 +213,9 @@ def toolbox():
     rows = [
         ("testing", PASS, [("selenium", "Selenium"), ("postman", "Postman"), ("jira", "Jira"), ("junit5", "JUnit"),
                           ("openjdk", "Java"), ("apachemaven", "Maven"), ("jenkins", "Jenkins")]),
-        ("data", INFO, [("python", "Python"), (None, "dbt"), ("apacheairflow", "Airflow"), ("snowflake", "Snowflake"),
+        ("data qa", INFO, [("python", "Python"), (None, "dbt"), ("apacheairflow", "Airflow"), ("snowflake", "Snowflake"),
                        ("duckdb", "DuckDB"), ("postgresql", "SQL")]),
-        ("build", VIOLET, [("flutter", "Flutter"), ("dart", "Dart"), ("firebase", "Firebase"), ("javascript", "JS"),
+        ("mobile", VIOLET, [("flutter", "Flutter"), ("dart", "Dart"), ("firebase", "Firebase"), ("javascript", "JS"),
                           ("googlechrome", "Chrome MV3"), ("git", "Git"), ("github", "GitHub")]),
     ]
     data = json.load(open(os.path.join(SI, "data", "simple-icons.json")))
